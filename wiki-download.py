@@ -49,7 +49,7 @@ def add_file(cursor, directory_path, filename, content):
         directory_id = cursor.lastrowid
         mydb.commit()
 
-    cursor.execute("INSERT INTO file (name, directory_id, content) VALUES (%s, %s, %s)", (filename, directory_id, content))
+    cursor.execute("INSERT INTO file (name, directory_id, content, searchable) VALUES (%s, %s, %s, %s)", (filename, directory_id, content, True))
     mydb.commit()
     print("File added successfully.")
 

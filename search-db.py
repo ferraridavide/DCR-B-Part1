@@ -32,12 +32,14 @@ while True:
       for result in data.fetchall():
         from_db += 1
         cache.put(result["id"], result)
-        print("FROM DB: " + result["name"])
+        print("FROM DB: " + result["full_path"] + " (" + str(result["occurrences"]) + " occurrences)")
 
-
-  # Print percentage of cache hits and misses
-  print(f"Cache hits: {len(cache_hit)}")
-  print (f"Cache hit ratio: {len(cache_hit) / (len(cache_hit) + from_db) * 100:.2f}%")
+  if len(cache_hit) + from_db != 0:
+    # Print percentage of cache hits and misses
+    print(f"Cache hits: {len(cache_hit)}")
+    print (f"Cache hit ratio: {len(cache_hit) / (len(cache_hit) + from_db) * 100:.2f}%")
+  else:
+    print("No results found.")
 
 
 mydb.close()

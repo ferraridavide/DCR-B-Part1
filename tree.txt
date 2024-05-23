@@ -1,0 +1,631 @@
+📁 root
+    📄 Physics
+    📄 Action principles
+    📄 Charge based boundary element fast multipole method
+    📄 Computational chemistry
+    📄 Disclination
+    📄 Physics
+    📄 Action principles
+    📄 Charge based boundary element fast multipole method
+    📄 Computational chemistry
+    📄 Disclination
+    📁 Aprile
+        📁 700x300
+            📄 banner_PROMO SOL SACCONI_solo15_700x300_alta.jpg
+            📄 DOGSITTER-700x300-TRAINER-apr24.jpg
+            📄 dogsitter-almo-nature-apr24-700x300.jpg
+            📄 dogsitter-EXCLUSION-700x300-apr24.jpg
+            📄 dogsitter-forza10-700x300-apr24.jpg
+            📄 dogsitter-golosi-700x300-apr24.jpg
+            📄 dogsitter-integratori-700x300-apr24-cane.jpg
+            📄 dogsitter-integratori-700x300-apr24-gatto.jpg
+            📄 dogsitter-news-promo-HILLS-apr24-700x300.jpg
+            📄 dogsitter-news-promo-sconti-apr24-700x300-CANE.jpg
+            📄 dogsitter-news-promo-sconti-apr24-700x300-GATTO.jpg
+            📄 dogsitter-OASY-700x300-apr24.jpg
+            📄 dogsitter-outlet-700x300-apr24.jpg
+            📄 dogsitter-purina-aprile-2024-700x300.jpg
+            📄 dogsitter-trasportini-700x300-apr24-cane.jpg
+            📄 dogsitter-trasportini-700x300-apr24-gatto.jpg
+            📄 ds-integratori-aprile-giugno-2024-700x300-CANE.jpg
+            📄 ds-integratori-aprile-giugno-2024-700x300-GATTO.jpg
+            📄 newsletter-dogsitter-ci-manchi-cane-apr24-700x300.jpg
+            📄 newsletter-dogsitter-ci-manchi-gatto-apr24-700x300.jpg
+        📁 Banner BOX
+            📄 banner-box-marzo-24-FORZA10.png
+            📄 banner_PROMO SOL SACCONI_solo15_1000x500_alta.jpg
+            📄 dogsitter-EXCLUSION-1200x600-apr24.jpg
+            📄 dogsitter-outlet-1200X600-apr24.jpg
+            📄 MFF-1200X600 ok .jpg
+        📁 Banner HP
+            📄 AMICI X SEMPRE MFF-1200X600 ok.jpg
+            📄 banner_PROMO SOL SACCONI_solo15_1200x600_alta.jpg
+            📄 DOGSITTER-1200x600-TRAINER-apr24-HP.jpg
+            📄 dogsitter-almo-nature-apr24-1200x600.jpg
+            📄 dogsitter-forza10-1200X600-apr24.jpg
+            📄 dogsitter-golosi-1200x600-apr24.jpg
+            📄 dogsitter-integratori-1200x600-apr24-cane.jpg
+            📄 dogsitter-integratori-1200x600-apr24-gatto.jpg
+            📄 dogsitter-news-promo-HILLS-apr24-1200x600.jpg
+            📄 dogsitter-OASY-1200x600-apr24.jpg
+            📄 dogsitter-outlet-1200X600-apr24.jpg
+            📄 dogsitter-purina-aprile-2024-1200x600.jpg
+            📄 dogsitter-trasportini-1200x600-apr24-cane.jpg
+            📄 dogsitter-trasportini-1200x600-apr24-gatto.jpg
+            📄 ds-integratori-aprile-giugno-2024-1200x600-CANE.jpg
+            📄 ds-integratori-aprile-giugno-2024-1200x600-GATTO.jpg
+            📄 MFF-1000X500 ok.jpg
+        📁 Facebook
+            📄 banner_PROMO SOL SACCONI_solo15_800x300_alta.jpg
+            📄 banner_PROMO SOL SACCONI_solo15_800x400_alta.jpg
+            📄 carosello-prodotti-promo-dogsitter.jpg
+            📄 carosello-prodotti-promo-dogsitter2.jpg
+            📄 carosello-prodotti-promo-dogsitter3.jpg
+            📄 carosello-prodotti-promo-dogsitter4.jpg
+            📄 carosello-prodotti-promo-dogsitter5.jpg
+            📄 carosello-prodotti-promo-dogsitter6.jpg
+            📄 Carousel-20240329T072435Z-001.zip
+            📄 DOGSITTER-1080x1080-TRAINER-apr24-FB.jpg
+            📄 dogsitter-almo-nature-apr24-1080x1080.jpg
+            📄 dogsitter-EXCLUSION-1080X1080-apr24.jpg
+            📄 dogsitter-forza10-1080X1080-apr24.jpg
+            📄 dogsitter-golosi-1080x1080-apr24.jpg
+            📄 dogsitter-integratori-1080X1080-apr24-cane.jpg
+            📄 dogsitter-integratori-1080X1080-apr24-gatto.jpg
+            📄 dogsitter-news-promo-HILLS-apr24-1080x1080.jpg
+            📄 dogsitter-news-promo-sconti-APR24-1080X1080-CANE.jpg
+            📄 dogsitter-news-promo-sconti-APR24-1080X1080-GATTO.jpg
+            📄 dogsitter-OASY-1080x1080-apr24.jpg
+            📄 dogsitter-outlet-1080X1080-apr24.jpg
+            📄 dogsitter-purina-aprile-2024-1080x1080.jpg
+            📄 dogsitter-trasportini-1080x1080-apr24-cane.jpg
+            📄 dogsitter-trasportini-1080x1080-apr24-gatto.jpg
+            📄 ds-integratori-aprile-giugno-2024-1080x1080-CANE.jpg
+            📄 ds-integratori-aprile-giugno-2024-1080x1080-GATTO.jpg
+            📄 MFF-800X400 2.jpg
+            📄 MFF-800X400 ok.jpg
+            📄 PPL-20240329T072418Z-001.zip
+            📄 Stories-20240329T072408Z-001.zip
+            📄 Video-20240329T072404Z-001.zip
+            📁 Carousel
+                📁 carousel 1
+                    📁 1.4
+                        📄 card_3.jpg
+            📁 Video
+                📁 video 6s
+                    📁 cat
+                        📄 MFF 2024_6s Cat 2_final_IT.mp4
+            📁 Video-20240329T072404Z-001
+                📁 Video
+                    📁 30s
+                        📄 MFF 2024_30s video_final_IT.mp4
+                    📁 video 15s
+                        📄 MFF 2024_15s Cat video_final_IT.mp4
+                        📄 MFF 2024_15s Dog video_final_IT.mp4
+                    📁 video 6s
+                        📁 cat
+                            📄 MFF 2024_6s Cat 1_final_IT.mp4
+                            📄 MFF 2024_6s Cat 2_final_IT.mp4
+                            📄 MFF 2024_6s Cat 3_final_IT.mp4
+                        📁 dog
+                            📄 MFF 2024_6s Dog 1_final_IT.mp4
+                            📄 MFF 2024_6s Dog 2_final_IT.mp4
+                            📄 MFF 2024_6s Dog 3_final_IT.mp4
+        📁 Newsletter
+            📄 DOGSITTER-800x400-TRAINER-apr24-newsletter.jpg
+            📄 dogsitter-almo-nature-apr24-800x400.jpg
+            📄 dogsitter-EXCLUSION-800x400-apr24.jpg
+            📄 dogsitter-forza10-800x400-apr24.jpg
+            📄 dogsitter-forza10-800x400-apr24_v2.jpg
+            📄 dogsitter-golosi-800x400-apr24.jpg
+            📄 dogsitter-integratori-800x400-apr24-cane.jpg
+            📄 dogsitter-integratori-800x400-apr24-gatto.jpg
+            📄 dogsitter-news-promo-HILLS-apr24-800x400.jpg
+            📄 dogsitter-news-promo-sconti-apr24-1200x600-CANE.jpg
+            📄 dogsitter-news-promo-sconti-apr24-1200x600-GATTO.jpg
+            📄 dogsitter-news-promo-sconti-apr24-800x400-CANE.jpg
+            📄 dogsitter-news-promo-sconti-apr24-800x400-GATTO.jpg
+            📄 dogsitter-outlet-800X400-apr24.jpg
+            📄 dogsitter-purina-aprile-2024-800x400.jpg
+            📄 dogsitter-trasportini-800x400-apr24-cane.jpg
+            📄 dogsitter-trasportini-800x400-apr24-gatto.jpg
+            📄 ds-newsletter-integratori-aprile-giugno-2024-800x400-CANE.jpg
+            📄 ds-newsletter-integratori-aprile-giugno-2024-800x400-GATTO.jpg
+            📄 newsletter-dogsitter-1200x600-ci-manchi-cane-apr24.jpg
+            📄 newsletter-dogsitter-1200x600-ci-manchi-gatto-apr24.jpg
+            📄 newsletter-dogsitter-800x400-ci-manchi-cane-apr24.jpg
+            📄 newsletter-dogsitter-800x400-ci-manchi-gatto-apr24.jpg
+        📁 ROYAL
+            📁 ALTA
+                📄 .DS_Store
+                📄 banner_PROMO SOL SACCONI_solo15_1000x500_alta.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_1200x600_alta.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_700x300_alta.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_800x300_alta.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_800x400_alta.jpg
+            📁 Dimensione richiesta
+                📄 .DS_Store
+                📄 banner_PROMO SOL SACCONI_solo15_1000x500.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_1200x600.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_700x300.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_800x300.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_800x400.jpg
+        📁 YOUTUBE
+            📄 DS-COPERTINA-YOUTUBE-2048x1152.jpg
+            📄 DS-FILIGRANA-150X150PX.png
+            📄 DS-PROFILO-98X98-v1.jpg
+            📄 DS-PROFILO-98X98-v2.jpg
+    📁 Aprile
+        📁 700x300
+            📄 banner_PROMO SOL SACCONI_solo15_700x300_alta.jpg
+            📄 DOGSITTER-700x300-TRAINER-apr24.jpg
+            📄 dogsitter-almo-nature-apr24-700x300.jpg
+            📄 dogsitter-EXCLUSION-700x300-apr24.jpg
+            📄 dogsitter-forza10-700x300-apr24.jpg
+            📄 dogsitter-golosi-700x300-apr24.jpg
+            📄 dogsitter-integratori-700x300-apr24-cane.jpg
+            📄 dogsitter-integratori-700x300-apr24-gatto.jpg
+            📄 dogsitter-news-promo-HILLS-apr24-700x300.jpg
+            📄 dogsitter-news-promo-sconti-apr24-700x300-CANE.jpg
+            📄 dogsitter-news-promo-sconti-apr24-700x300-GATTO.jpg
+            📄 dogsitter-OASY-700x300-apr24.jpg
+            📄 dogsitter-outlet-700x300-apr24.jpg
+            📄 dogsitter-purina-aprile-2024-700x300.jpg
+            📄 dogsitter-trasportini-700x300-apr24-cane.jpg
+            📄 dogsitter-trasportini-700x300-apr24-gatto.jpg
+            📄 ds-integratori-aprile-giugno-2024-700x300-CANE.jpg
+            📄 ds-integratori-aprile-giugno-2024-700x300-GATTO.jpg
+            📄 newsletter-dogsitter-ci-manchi-cane-apr24-700x300.jpg
+            📄 newsletter-dogsitter-ci-manchi-gatto-apr24-700x300.jpg
+        📁 Banner BOX
+            📄 banner-box-marzo-24-FORZA10.png
+            📄 banner_PROMO SOL SACCONI_solo15_1000x500_alta.jpg
+            📄 dogsitter-EXCLUSION-1200x600-apr24.jpg
+            📄 dogsitter-outlet-1200X600-apr24.jpg
+            📄 MFF-1200X600 ok .jpg
+        📁 Banner HP
+            📄 AMICI X SEMPRE MFF-1200X600 ok.jpg
+            📄 banner_PROMO SOL SACCONI_solo15_1200x600_alta.jpg
+            📄 DOGSITTER-1200x600-TRAINER-apr24-HP.jpg
+            📄 dogsitter-almo-nature-apr24-1200x600.jpg
+            📄 dogsitter-forza10-1200X600-apr24.jpg
+            📄 dogsitter-golosi-1200x600-apr24.jpg
+            📄 dogsitter-integratori-1200x600-apr24-cane.jpg
+            📄 dogsitter-integratori-1200x600-apr24-gatto.jpg
+            📄 dogsitter-news-promo-HILLS-apr24-1200x600.jpg
+            📄 dogsitter-OASY-1200x600-apr24.jpg
+            📄 dogsitter-outlet-1200X600-apr24.jpg
+            📄 dogsitter-purina-aprile-2024-1200x600.jpg
+            📄 dogsitter-trasportini-1200x600-apr24-cane.jpg
+            📄 dogsitter-trasportini-1200x600-apr24-gatto.jpg
+            📄 ds-integratori-aprile-giugno-2024-1200x600-CANE.jpg
+            📄 ds-integratori-aprile-giugno-2024-1200x600-GATTO.jpg
+            📄 MFF-1000X500 ok.jpg
+        📁 Facebook
+            📄 banner_PROMO SOL SACCONI_solo15_800x300_alta.jpg
+            📄 banner_PROMO SOL SACCONI_solo15_800x400_alta.jpg
+            📄 carosello-prodotti-promo-dogsitter.jpg
+            📄 carosello-prodotti-promo-dogsitter2.jpg
+            📄 carosello-prodotti-promo-dogsitter3.jpg
+            📄 carosello-prodotti-promo-dogsitter4.jpg
+            📄 carosello-prodotti-promo-dogsitter5.jpg
+            📄 carosello-prodotti-promo-dogsitter6.jpg
+            📄 Carousel-20240329T072435Z-001.zip
+            📄 DOGSITTER-1080x1080-TRAINER-apr24-FB.jpg
+            📄 dogsitter-almo-nature-apr24-1080x1080.jpg
+            📄 dogsitter-EXCLUSION-1080X1080-apr24.jpg
+            📄 dogsitter-forza10-1080X1080-apr24.jpg
+            📄 dogsitter-golosi-1080x1080-apr24.jpg
+            📄 dogsitter-integratori-1080X1080-apr24-cane.jpg
+            📄 dogsitter-integratori-1080X1080-apr24-gatto.jpg
+            📄 dogsitter-news-promo-HILLS-apr24-1080x1080.jpg
+            📄 dogsitter-news-promo-sconti-APR24-1080X1080-CANE.jpg
+            📄 dogsitter-news-promo-sconti-APR24-1080X1080-GATTO.jpg
+            📄 dogsitter-OASY-1080x1080-apr24.jpg
+            📄 dogsitter-outlet-1080X1080-apr24.jpg
+            📄 dogsitter-purina-aprile-2024-1080x1080.jpg
+            📄 dogsitter-trasportini-1080x1080-apr24-cane.jpg
+            📄 dogsitter-trasportini-1080x1080-apr24-gatto.jpg
+            📄 ds-integratori-aprile-giugno-2024-1080x1080-CANE.jpg
+            📄 ds-integratori-aprile-giugno-2024-1080x1080-GATTO.jpg
+            📄 MFF-800X400 2.jpg
+            📄 MFF-800X400 ok.jpg
+            📄 PPL-20240329T072418Z-001.zip
+            📄 Stories-20240329T072408Z-001.zip
+            📄 Video-20240329T072404Z-001.zip
+            📁 Carousel
+                📁 carousel 1
+                    📁 1.4
+                        📄 card_3.jpg
+            📁 Video
+                📁 video 6s
+                    📁 cat
+                        📄 MFF 2024_6s Cat 2_final_IT.mp4
+            📁 Video-20240329T072404Z-001
+                📁 Video
+                    📁 30s
+                        📄 MFF 2024_30s video_final_IT.mp4
+                    📁 video 15s
+                        📄 MFF 2024_15s Cat video_final_IT.mp4
+                        📄 MFF 2024_15s Dog video_final_IT.mp4
+                    📁 video 6s
+                        📁 cat
+                            📄 MFF 2024_6s Cat 1_final_IT.mp4
+                            📄 MFF 2024_6s Cat 2_final_IT.mp4
+                            📄 MFF 2024_6s Cat 3_final_IT.mp4
+                        📁 dog
+                            📄 MFF 2024_6s Dog 1_final_IT.mp4
+                            📄 MFF 2024_6s Dog 2_final_IT.mp4
+                            📄 MFF 2024_6s Dog 3_final_IT.mp4
+        📁 Newsletter
+            📄 DOGSITTER-800x400-TRAINER-apr24-newsletter.jpg
+            📄 dogsitter-almo-nature-apr24-800x400.jpg
+            📄 dogsitter-EXCLUSION-800x400-apr24.jpg
+            📄 dogsitter-forza10-800x400-apr24.jpg
+            📄 dogsitter-forza10-800x400-apr24_v2.jpg
+            📄 dogsitter-golosi-800x400-apr24.jpg
+            📄 dogsitter-integratori-800x400-apr24-cane.jpg
+            📄 dogsitter-integratori-800x400-apr24-gatto.jpg
+            📄 dogsitter-news-promo-HILLS-apr24-800x400.jpg
+            📄 dogsitter-news-promo-sconti-apr24-1200x600-CANE.jpg
+            📄 dogsitter-news-promo-sconti-apr24-1200x600-GATTO.jpg
+            📄 dogsitter-news-promo-sconti-apr24-800x400-CANE.jpg
+            📄 dogsitter-news-promo-sconti-apr24-800x400-GATTO.jpg
+            📄 dogsitter-outlet-800X400-apr24.jpg
+            📄 dogsitter-purina-aprile-2024-800x400.jpg
+            📄 dogsitter-trasportini-800x400-apr24-cane.jpg
+            📄 dogsitter-trasportini-800x400-apr24-gatto.jpg
+            📄 ds-newsletter-integratori-aprile-giugno-2024-800x400-CANE.jpg
+            📄 ds-newsletter-integratori-aprile-giugno-2024-800x400-GATTO.jpg
+            📄 newsletter-dogsitter-1200x600-ci-manchi-cane-apr24.jpg
+            📄 newsletter-dogsitter-1200x600-ci-manchi-gatto-apr24.jpg
+            📄 newsletter-dogsitter-800x400-ci-manchi-cane-apr24.jpg
+            📄 newsletter-dogsitter-800x400-ci-manchi-gatto-apr24.jpg
+        📁 ROYAL
+            📁 ALTA
+                📄 .DS_Store
+                📄 banner_PROMO SOL SACCONI_solo15_1000x500_alta.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_1200x600_alta.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_700x300_alta.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_800x300_alta.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_800x400_alta.jpg
+            📁 Dimensione richiesta
+                📄 .DS_Store
+                📄 banner_PROMO SOL SACCONI_solo15_1000x500.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_1200x600.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_700x300.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_800x300.jpg
+                📄 banner_PROMO SOL SACCONI_solo15_800x400.jpg
+        📁 YOUTUBE
+            📄 DS-COPERTINA-YOUTUBE-2048x1152.jpg
+            📄 DS-FILIGRANA-150X150PX.png
+            📄 DS-PROFILO-98X98-v1.jpg
+            📄 DS-PROFILO-98X98-v2.jpg
+    📁 Physics by country
+        📁 Nuclear technology by country
+            📁 Anti-nuclear movement by country
+                📄 Anti-nuclear movement in Australia
+                📄 Anti-nuclear movement in Canada
+                📄 Anti-nuclear movement in France
+                📄 Anti-nuclear power movement in Japan
+                📄 Anti-nuclear movement in Kazakhstan
+                📁 Anti-nuclear movement in Austria
+                    📄 Anti-nuclear movement in Austria
+                📁 Anti-nuclear movement in England
+                    📄 Aldermaston Marches
+                    📄 Cumbrians Opposed to a Radioactive Environment
+                    📄 Fellowship Party
+                    📄 Greenham Common Women's Peace Camp
+                    📄 Molesworth peace camp
+            📁 Nuclear history by country
+                📁 Nuclear power by country
+                    📄 Nuclear power by country
+                    📄 List of nuclear power accidents by country
+                    📄 Nuclear energy policy by country
+                    📄 National Nuclear Agency (Albania)
+                    📄 Nuclear power in Belgium
+                📁 Nuclear history of China
+                    📄 816 Nuclear Military Plant
+                    📄 China Academy of Engineering Physics
+                    📄 Two Bombs, One Satellite
+                    📄 Underground Project 131
+                📁 Nuclear history of France
+                    📄 Anti-nuclear movement in France
+                    📄 André Beaufre
+                    📄 Henri Becquerel
+                    📄 Cadarache
+                    📄 CEA Paris-Saclay
+                📁 Nuclear history of Germany
+                    📄 German nuclear program during World War II
+                    📄 Leipzig L-IV experiment accident
+                📁 Nuclear history of India
+                    📄 Homi J. Bhabha
+                    📄 India–United States Civil Nuclear Agreement
+                    📄 Milw0rm
+                    📄 Operation Brasstacks
+                    📄 Operation Parakram
+            📁 Anti-nuclear activists by nationality
+                📁 American anti–nuclear activists
+                    📄 Susan Kleckner
+                📁 Australian anti–nuclear activists
+                    📄 Dave Sweeney
+            📁 Nuclear power by country
+                📁 Nuclear power in Argentina
+                    📄 Nuclear power in Argentina
+                    📄 2006 Argentine nuclear reactivation plan
+                    📄 Bariloche Atomic Centre
+            📁 Nuclear technology by former country
+                📁 Nuclear technology in the Soviet Union
+                    📄 All-Russian Scientific Research and Design Institute of Energy Technology
+                    📄 All-Russian Scientific Research Institute of Experimental Physics
+                    📄 All-Russian Scientific Research Institute Of Technical Physics
+                    📄 Atominform
+                    📄 Atommash
+        📁 Physicists by nationality
+            📁 20th-century physicists by nationality
+                📁 20th-century Algerian physicists
+                    📄 Mustapha Ishak Boushaki
+                    📄 Faïrouz Malek
+                📁 20th-century American physicists
+                    📄 Jules Aarons
+                    📄 Alexander Abashian
+                    📄 Benjamin Abeles
+                    📄 Philip Abelson
+                    📄 Eric G. Adelberger
+                📁 20th-century Argentine physicists
+                    📄 José Antonio Balseiro
+                    📄 Guido Beck
+                    📄 Dan Jacobo Beninson
+                    📄 Margrete Heiberg Bose
+                    📄 Tomás Buch
+                📁 20th-century Australian physicists
+                    📄 Ronald Ernest Aitchison
+                    📄 Victor Albert Bailey
+                    📄 Rodney Baxter
+                    📄 Nicole Bell (scientist)
+                    📄 Louis Bernacchi
+                📁 20th-century Austrian physicists
+                    📄 Friedrich Adler (politician)
+                    📄 Peter C. Aichelburg
+                    📄 Wilhelm Altar
+                    📄 Paul Bargehr
+                    📄 Alexander Behm
+            📁 21st-century physicists by nationality
+                📁 21st-century Algerian physicists
+                    📄 Yasmine Amhis
+                    📄 Mustapha Ishak Boushaki
+                    📄 Faïrouz Malek
+                📁 21st-century American physicists
+                    📄 Alexander Abanov
+                    📄 Dorian Abbot
+                    📄 John Abraham (engineer)
+                    📄 Neal B. Abraham
+                    📄 Richard L. Abrams
+                📁 21st-century Argentine physicists
+                    📄 Mario Bunge
+                    📄 María Teresa Dova
+                    📄 Horacio Farach
+                    📄 Marina Huerta
+                    📄 Valeria Molinero
+                📁 21st-century Australian physicists
+                    📄 Joan Adler
+                    📄 Igor Aharonovich
+                    📄 Kenneth Baldwin
+                    📄 Amanda Barnard
+                    📄 Tim Bedding
+                📁 21st-century Austrian physicists
+                    📄 Markus Aspelmeyer
+                    📄 Reinhold Bertlmann
+                    📄 Silke Bühler-Paschen
+                    📄 Claudia Draxl
+                    📄 Francesca Ferlaino
+            📁 Astronomers by nationality
+                📁 Lists of astronomers by nationality
+                    📄 List of French astronomers
+                    📄 List of Hungarian astronomers
+                    📄 List of Russian astronomers and astrophysicists
+                    📄 List of Slovenian astronomers
+            📁 Astrophysicists by nationality
+                📁 Algerian astrophysicists
+                    📄 Nidhal Guessoum
+                    📄 Mustapha Ishak Boushaki
+                📁 American astrophysicists
+                    📄 Charles Greeley Abbot
+                    📄 Helmut Abt
+                    📄 Kurt Adelberger
+                    📄 Rana X. Adhikari
+                    📄 Eric Agol
+                📁 Argentine astrophysicists
+                    📄 Mario Acuña
+                    📄 Alessandro De Angelis (astrophysicist)
+                    📄 Amina Helmi
+                    📄 Carlos Lousto
+                    📄 Julio Navarro (astrophysicist)
+                📁 Armenian astrophysicists
+                    📄 Felix A. Aharonian
+                    📄 Viktor Ambartsumian
+                    📄 Marat Arakelian
+                    📄 Garik Israelian
+                    📄 Benjamin Markarian
+                📁 Australian astrophysicists
+                    📄 Martin Asplund
+                    📄 Kirsten Banks
+                    📄 Joss Bland-Hawthorn
+                    📄 Donald B. Campbell
+                    📄 Alex Chambers
+        📁 Physics in Canada
+            📁 Canadian physicists
+                📄 Ian Affleck
+                📄 Frank Allen (physicist)
+                📄 John F. Allen (physicist)
+                📄 Carol Alonso
+                📄 Mohammad H. Ansari
+                📁 20th-century Canadian physicists
+                    📄 Isaac Abella
+                    📄 Willis Adcock
+                    📄 Bruce Aikenhead
+                    📄 Howard Turner Barnes
+                    📄 Étienne Biéler
+                📁 21st-century Canadian physicists
+                    📄 Isaac Abella
+                    📄 Asimina Arvanitaki
+                    📄 Myer Bloom
+                    📄 Mario Bunge
+                    📄 Freddy Cachazo
+                📁 Canadian women physicists
+                    📄 Meigan Charlotte Aronson
+                    📄 Mona Berciu
+                    📄 Hildred Blewett
+                    📄 Harriet Brooks
+                    📄 Patricia Burchat
+                📁 Canadian astronomers
+                    📄 Charles Carpmael
+                    📄 Terence Dickinson
+                    📄 Natascha Förster Schreiber
+                    📄 Andrew Lowe
+                    📄 Pierre Martin (astronomer)
+                📁 Canadian astrophysicists
+                    📄 Christopher Aikman
+                    📄 David Bohlender
+                    📄 Dick Bond (astrophysicist)
+                    📄 Sean Dougherty
+                    📄 Allie Vibert Douglas
+            📁 Physics departments in Canada
+                📄 McGill University Faculty of Science
+        📁 Physics in China
+            📄 Aberdeen Tunnel Underground Laboratory
+            📄 Laboratory of Solid State Microstructure, Nanjing University
+            📁 Chinese Optical Society
+                📄 Chinese Optical Society
+                📁 Presidents of the Chinese Optical Society
+                    📄 Gong Qihuang
+                    📄 Guo Guangcan
+                    📄 Mu Guoguang
+                    📄 Wang Daheng
+            📁 Chinese Physical Society
+                📄 Chinese Physical Society
+                📁 Chinese Physical Society academic journals
+                    📄 Acta Physica Sinica
+                    📄 Chinese Journal of Atomic and Molecular Physics
+                    📄 Chinese Journal of Chemical Physics
+                    📄 Chinese Journal of High Pressure Physics
+                    📄 Chinese Journal of Light Scattering
+                📁 Presidents of the Chinese Physical Society
+                    📄 Chen Jia'er
+                    📄 Feng Duan
+                    📄 Huang Kun
+                    📄 Qian Sanqiang
+                    📄 Zhang Jie (physicist)
+            📁 Chinese physicists
+                📄 Hai-Ping Cheng
+                📄 Junhan Cho
+                📄 Dou Xiankang
+                📄 Du Jiangfeng
+                📄 Fang Zhong
+                📁 20th-century Chinese physicists
+                    📄 Bai Yilong
+                    📄 Jiming Bao
+                    📄 Chang-Yun Fan
+                    📄 Ge Molin
+                    📄 Tin-Lun Ho
+                📁 21st-century Chinese physicists
+                    📄 Bai Yilong
+                    📄 Jiming Bao
+                    📄 Yuan Cao
+                    📄 Du Jiangfeng
+                    📄 Ching-Yao Fong
+                📁 Hong Kong physicists
+                    📄 Raymond Chiao
+                    📄 Emily S. C. Ching
+                    📄 Shengwang Du
+                    📄 Kai-Ming Ho
+                    📄 Charles K. Kao
+                📁 Chinese women physicists
+                    📄 Xie Chen
+                    📄 Hai-Ping Cheng
+                    📄 Emily S. C. Ching
+                    📄 Haiyan Gao (physicist)
+                    📄 He Yizhen
+        📁 Physics in Germany
+            📄 DESY
+            📄 EUROfusion
+            📄 European XFEL
+            📁 German Physical Society
+                📄 German Physical Society
+                📄 Lise Meitner Lectures
+                📁 Awards of the German Physical Society
+                    📄 Max Born Medal and Prize
+                    📄 Otto Hahn Prize
+                    📄 Max Planck Medal
+                    📄 Walter Schottky Prize
+                📁 Presidents of the German Physical Society
+                    📄 Friedrich Bopp
+                    📄 Alexander Bradshaw
+                    📄 Wolfgang Finkelnburg
+                    📄 Walther Gerlach
+                    📄 Rolf-Dieter Heuer
+            📁 German physicists
+                📄 List of German physicists
+                📄 Karl Heinz Bennemann
+                📄 Jens Biegert
+                📄 Friedrich Bonhoeffer
+                📄 Fritz Borgnis
+                📁 18th-century German physicists
+                    📄 Michael Adelbulner
+                    📄 Georg Matthias Bose
+                    📄 Ernst Chladni
+                    📄 Paul Erman
+                    📄 Carl Friedrich Gauss
+                📁 19th-century German physicists
+                    📄 Ernst Abbe
+                    📄 Leo Arons
+                    📄 Felix Auerbach
+                    📄 August Beer
+                    📄 Wilhelm von Beetz
+                📁 20th-century German physicists
+                    📄 Max Abraham
+                    📄 Gisela Anton
+                    📄 Georg von Arco
+                    📄 Manfred von Ardenne
+                    📄 Peter Armbruster
+                📁 21st-century German physicists
+                    📄 Gerhard Abstreiter
+                    📄 Elke Arenholz
+                    📄 Markus Aspelmeyer
+                    📄 Sonia Bacca
+                    📄 Marc Baldus
+                📁 Jewish German physicists
+                    📄 Max Abraham
+                    📄 Bruce Alberts
+                    📄 Leo Arons
+                    📄 Felix Auerbach
+                    📄 Valentine Bargmann
+            📁 Nuclear technology in Germany
+                📄 German nuclear program during World War II
+                📄 1975 Brazil–West Germany nuclear agreement
+                📄 Institute for Transuranium Elements
+                📄 Wendelstein 7-AS
+                📄 Wendelstein 7-X
+                📁 Anti-nuclear movement in Germany
+                    📄 Anti-nuclear movement in Germany
+                    📄 List of anti-nuclear advocates in Germany
+                    📄 Anti-WAAhnsinns Festival
+                    📄 Brokdorf
+                    📄 Free Republic of Wendland
+                📁 Nuclear facilities in Germany
+                    📄 Asse (hills)
+                    📄 Asse II mine
+                    📄 Forschungsreaktor 2
+                    📄 Wackersdorf reprocessing plant
+                📁 German anti–nuclear power activists
+                    📄 List of anti-nuclear advocates in Germany
+                    📄 Rebecca Harms
+                    📄 Rüdiger Sagel
+                    📄 Jens Scheer
+                    📄 Inge Schmitz-Feuerhake
+                📁 German anti–nuclear weapons activists
+                    📄 Reiner Braun
+                    📄 Erich Fromm
+                    📄 Göttingen Eighteen
+                    📄 Hartmut Gründler
+                    📄 Siegwart Horst Günther
